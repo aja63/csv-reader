@@ -1,0 +1,10 @@
+{
+  "name": "inclass",
+  "version": "1.0.0",
+  "dependencies": {
+    "csv-parse": "^4.8.7",
+    "jest": "^25.1.0",
+    "pg": "^7.18.2",
+    "test": "jest"
+  }
+}
